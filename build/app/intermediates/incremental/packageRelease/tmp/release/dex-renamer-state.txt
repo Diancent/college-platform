@@ -1,0 +1,4 @@
+#Fri Jun 30 11:17:37 EEST 2023
+base.0=/Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

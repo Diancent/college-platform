@@ -1,0 +1,15 @@
+com.example.college_platform_mobile.app-jetified-window-java-1.0.0-beta04-0 /Users/artemkorolcuk/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.college_platform_mobile.app-core-1.6.0-1 /Users/artemkorolcuk/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.college_platform_mobile.app-jetified-security-crypto-1.1.0-alpha04-2 /Users/artemkorolcuk/.gradle/caches/transforms-3/721f6ff27a9d2d34046694447893c707/transformed/jetified-security-crypto-1.1.0-alpha04/res
+com.example.college_platform_mobile.app-jetified-annotation-experimental-1.1.0-3 /Users/artemkorolcuk/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.college_platform_mobile.app-jetified-window-1.0.0-beta04-4 /Users/artemkorolcuk/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.college_platform_mobile.app-main-5 /Users/artemkorolcuk/Documents/study/dart/Mobile/android/app/src/main/res
+com.example.college_platform_mobile.app-release-6 /Users/artemkorolcuk/Documents/study/dart/Mobile/android/app/src/release/res
+com.example.college_platform_mobile.app-pngs-7 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/generated/res/pngs/release
+com.example.college_platform_mobile.app-resValues-8 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/generated/res/resValues/release
+com.example.college_platform_mobile.app-rs-9 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/generated/res/rs/release
+com.example.college_platform_mobile.app-mergeReleaseResources-10 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.college_platform_mobile.app-mergeReleaseResources-11 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.college_platform_mobile.app-merged_res-12 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/app/intermediates/merged_res/release
+com.example.college_platform_mobile.app-packaged_res-13 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/flutter_secure_storage/intermediates/packaged_res/release
+com.example.college_platform_mobile.app-packaged_res-14 /Users/artemkorolcuk/Documents/study/dart/Mobile/build/url_launcher_android/intermediates/packaged_res/release
